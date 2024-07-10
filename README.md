@@ -1,0 +1,1 @@
+In this HeartDiagnosis project I have created a model in which based on patient medical history we will predict weather the patient does have a heart disease or does not have a heart disease. Model used is Logistic Regression and dataset is stored in csv file.
